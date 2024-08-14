@@ -25,7 +25,7 @@ Before running the program, ensure you have the following installed:
 To install dependencies, you can use `pip`:
 
 ```bash
-pip install opencv-python numpy
+pip install -r requirements.txt
 ```
 
 ### Folder Structure
