@@ -1,7 +1,5 @@
 # simple-vehicle-counting-using-opencv
-Certainly! Below is a sample README text for your program. This template includes instructions on how to run the system, what the program does, and any additional details you may want to share.
 
----
 ## Overview
 
 This repository contains a vehicle counting system that processes video input from toll gates or other roadways. The system uses a combination of object tracking and boundary detection to count the number of cars and buses passing through specific points. The program is designed to be flexible and adjustable, allowing for fine-tuning of parameters to suit different environments and video qualities.
