@@ -58,7 +58,7 @@ In the `main.py` script, you can adjust the following parameters:
 Example:
 
 ```python
-car_tolerance=80  # Adjust for sensitivity
+car_tolerance=80
 bus_tolerance=25
 ```
 
@@ -78,18 +78,10 @@ If the vehicle count is inaccurate or the program misses vehicles:
 - This system is designed to be adaptable to various environments. Feel free to tweak the parameters to fit your specific use case.
 - The accuracy of the system depends on the quality of the video input. High-resolution videos with clear object visibility will yield better results.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributions
 
 Feel free to fork this repository and contribute to the project. Pull requests are welcome!
 
 ## Contact
 
-For any inquiries, please contact [Your Email] or open an issue in the repository.
-
----
-
-This template should cover the essential information needed to run the system, with room for any additional details specific to your implementation. Adjust it as necessary for your project!
+For any inquiries, please contact hefrykun10@gmail.com or open an issue in the repository.
